@@ -6,7 +6,7 @@ This script scrapes headphones information from the Sony website and saves it to
 
 1.  **Clone the Repo**
     ```bash
-    git clone [https://github.com/astyrisk/sony-headphones.git](https://github.com/astyrisk/sony-headphones.git)
+    git clone https://github.com/astyrisk/sony-headphones.git
     cd sony-headphones
     ```
 
