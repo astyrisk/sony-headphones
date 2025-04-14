@@ -19,12 +19,6 @@ When I first developed this script, I used `requests` and `BeautifulSoup`. After
     python3 -m venv venv
     source venv/bin/activate
     ```
-
-2. **Clone the Repo**
-    ```bash
-    git clone https://github.com/astyrisk/sony-headphones.git
-    cd sony-headphones
-    ```
 ### Using Requests and BeautifulSoup
 3.  **Install Dependencies**
     ```bash
