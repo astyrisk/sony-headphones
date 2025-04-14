@@ -22,7 +22,7 @@ When I first developed this script, I used `requests` and `BeautifulSoup`. After
 
 2. **Clone the Repo**
     ```bash
-    git clone [https://github.com/astyrisk/sony-headphones.git](https://github.com/astyrisk/sony-headphones.git)
+    git clone https://github.com/astyrisk/sony-headphones.git
     cd sony-headphones
     ```
 ### Using Requests and BeautifulSoup
