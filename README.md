@@ -8,17 +8,16 @@ When I first developed this script, I used `requests` and `BeautifulSoup`. After
 
 ## Installation
 
-1.  **Clone the Repo**
-    ```bash
-    git clone https://github.com/astyrisk/sony-headphones.git
-    cd sony-headphones
-    ```
-
-2.  **Virtual Environment (for linux)**
+1.  **Virtual Environment (for linux)**
     ```bash
     python3 -m venv venv
     source venv/bin/activate
     ```
+2.  **Clone the Repo**
+    ```bash
+    git clone https://github.com/astyrisk/sony-headphones.git
+    cd sony-headphones
+
 ### Using Requests and BeautifulSoup
 3.  **Install Dependencies**
     ```bash
